@@ -25,3 +25,8 @@ color = prompt('il tuo colore preferito?');
 console.log('il colore preferito è', color);
 
 //chiedere all'utente un numero
+
+let age;
+
+age = prompt('quanti anni hai?');
+console.log('quanti anni ha', age);
