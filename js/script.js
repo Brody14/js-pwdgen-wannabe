@@ -30,3 +30,8 @@ let age;
 
 age = prompt('quanti anni hai?');
 console.log('quanti anni ha', age);
+
+//stampare il risulato
+
+psd.innerHTML = firstName + lastName + color + age;
+console.log(firstName + lastName + color + age);
