@@ -19,4 +19,9 @@ console.log('il cognome è', lastName);
 
 //chiedere all'utente il suo colore preferito
 
+let color;
+
+color = prompt('il tuo colore preferito?');
+console.log('il colore preferito è', color);
+
 //chiedere all'utente un numero
