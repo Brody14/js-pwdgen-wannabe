@@ -12,6 +12,11 @@ console.log('il nome è', firstName);
 
 //chiedere all'utente il suo cognome
 
+let lastName;
+
+lastName = prompt('inserisci il tuo cognome');
+console.log('il cognome è', lastName);
+
 //chiedere all'utente il suo colore preferito
 
 //chiedere all'utente un numero
